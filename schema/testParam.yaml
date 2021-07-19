@@ -4,4 +4,4 @@ required:
 properties:
   title:
     type: string
-    example: 'Title'
+    example: 'Title title'
